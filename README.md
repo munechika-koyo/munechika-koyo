@@ -25,8 +25,8 @@
       
 | Project | Stars | Technologies |
 |--|--|--|
-| [cherab-imas](https://github.com/cherab/imas) | <img alt="Stars" src="https://img.shields.io/github/stars/cherab/imas?style=flat&logo=github"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![CHERAB](https://img.shields.io/badge/CHERAB-black?style=flat-square) ![IMAS-Python](https://img.shields.io/badge/IMAS-black?style=flat-square)|
-| [cherab-inversion](https://github.com/munechika-koyo/cherab_inversion) | <img alt="Stars" src="https://img.shields.io/github/stars/munechika-koyo/cherab_inversion?style=flat&logo=github"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) ![Scikit-Sparse](https://img.shields.io/badge/ScikitSparse-black?style=flat-square&logo=scikit)||
+| [cherab-imas](https://github.com/cherab/imas) | <img alt="Stars" src="https://img.shields.io/github/stars/cherab/imas?style=flat&logo=github"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![CHERAB](https://img.shields.io/badge/CHERAB-black?style=flat-square) ![IMAS-Python](https://img.shields.io/badge/IMAS-black?style=flat-square)|
+| [cherab-inversion](https://github.com/munechika-koyo/cherab_inversion) | <img alt="Stars" src="https://img.shields.io/github/stars/munechika-koyo/cherab_inversion?style=flat&logo=github"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
 </td>
     <td align="center">
       <a href="https://github.com/munechika-koyo">
