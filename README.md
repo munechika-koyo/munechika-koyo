@@ -2,9 +2,9 @@
 
 🔮 Plasma Physicist
 🎓 PhD Student in Nuclear Engineering at [Tokyo Institue of Technology](https://www.titech.jp/english)  
-⚛️ Working on the [ITER Organization](https://iter.org) as a Postdoctral Researcher
-💻 Experienced in **Scientific Computing** & **Scientific Python**
-❤️ Passionate about contributing **open source software** and package/upload them into `conda` ecosystem
+⚛️ Working on the [ITER Organization](https://iter.org) as a Postdoctral Researcher  
+💻 Experienced in **Scientific Computing** & **Scientific Python**  
+❤️ Passionate about contributing **open source software** and package/upload them into `conda` ecosystem  
 🛠️ Recently focused on [CHERAB](https://github.com/cherab); as a contributer
 
 <table>
