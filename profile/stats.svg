@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Koyo MUNECHIKA&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 15, Total Commits  : 2679, Total PRs: 274, Total PRs Merged: 237, Merged PRs Percentage: 86.50, Total PRs Reviewed: 33, Total Issues: 111, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 41</desc>
+        <desc id="descId">Total Stars Earned: 15, Total Commits  : 2679, Total PRs: 274, Total PRs Merged: 237, Merged PRs Percentage: 86.50, Total PRs Reviewed: 32, Total Issues: 111, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 41</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.99214538864325;
+        stroke-dashoffset: 84.9922389912621;
       }
     }
   
@@ -226,7 +226,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >33</text>
+      >32</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
