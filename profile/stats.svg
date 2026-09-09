@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Koyo MUNECHIKA&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  : 2720, Total PRs: 278, Total PRs Merged: 240, Merged PRs Percentage: 86.33, Total PRs Reviewed: 37, Total Issues: 112, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 40</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  : 2721, Total PRs: 279, Total PRs Merged: 241, Merged PRs Percentage: 86.38, Total PRs Reviewed: 40, Total Issues: 112, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 40</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.72997734241362;
+        stroke-dashoffset: 83.70719978033145;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -181,7 +188,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >278</text>
+      >279</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -196,7 +203,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >240</text>
+      >241</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -211,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >86.33 %</text>
+      >86.38 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -226,7 +233,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >37</text>
+      >40</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
