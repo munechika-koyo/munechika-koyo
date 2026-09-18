@@ -130,11 +130,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Python</text>
-      <text x="215" y="34" class="lang-name">83.39%</text>
+      <text x="215" y="34" class="lang-name">83.40%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="83.38803601616006%">
+      <svg data-testid="lang-progress" width="83.39785226365476%">
         <rect
             height="8"
             fill="#3572A5"
@@ -149,11 +149,11 @@
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">CSS</text>
-      <text x="215" y="34" class="lang-name">9.10%</text>
+      <text x="215" y="34" class="lang-name">9.09%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="9.10032536767324%">
+      <svg data-testid="lang-progress" width="9.094947855045698%">
         <rect
             height="8"
             fill="#663399"
@@ -168,11 +168,11 @@
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Cython</text>
-      <text x="215" y="34" class="lang-name">6.00%</text>
+      <text x="215" y="34" class="lang-name">5.99%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="5.996924565539856%">
+      <svg data-testid="lang-progress" width="5.993380896904429%">
         <rect
             height="8"
             fill="#fedf5b"
