@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Koyo MUNECHIKA&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 17, Total Commits  : 3103, Total PRs: 283, Total PRs Merged: 247, Merged PRs Percentage: 87.28, Total PRs Reviewed: 42, Total Issues: 114, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 40</desc>
+        <desc id="descId">Total Stars Earned: 17, Total Commits  : 3103, Total PRs: 284, Total PRs Merged: 247, Merged PRs Percentage: 86.97, Total PRs Reviewed: 42, Total Issues: 114, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 41</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.16054528392407;
+        stroke-dashoffset: 81.14343730418382;
       }
     }
   
@@ -188,7 +188,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >283</text>
+      >284</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >87.28 %</text>
+      >86.97 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -293,7 +293,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >40</text>
+      >41</text>
     </g>
   </g>
     </svg>
